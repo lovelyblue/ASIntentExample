@@ -20,6 +20,10 @@
             android:name=".SecoundActivity"
             android:label="@string/title_activity_secound" >
         </activity>
+        <activity
+            android:name=".LinearLayoutActivity"
+            android:label="@string/title_activity_linear_layout" >
+        </activity>
     </application>
 
 </manifest>
